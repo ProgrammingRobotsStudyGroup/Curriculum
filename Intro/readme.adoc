@@ -1,0 +1,94 @@
+Intro to Robotics
+
+Description
+ 
+ Want to learn something about robotics? This class starts with the basics. You'll build a 2 wheeled robot etc. 
+ 
+ Objectives 
+    Intro to electricity, motors, microcontrollers. 
+    Learn Encoders
+    Learn PID algorithm?
+    Soldering
+    Learn Arduino (C/C++) Coding?
+   
+  
+ Prerequisites 
+
+ Stuff you need
+    Laptop + Installed Software
+    Arduino IDE
+    Git
+   
+ What we supply
+    USB Cable
+    Intro Robo Kit: <link to parts list>
+   
+   
+ intro 
+    intro to Git and IDE
+ lab  
+    install git and IDE
+ Class 1 
+    Starting to program in Arduino
+ Class 1 Lab
+    Blinky light
+ Class 2
+    Arduino Libraries
+ Class 2 Lab
+    BlinkLEDS
+    Buttons
+    A Star fun
+ class 2b
+    intro PWM
+ lab
+    LED Fade
+ Class 3
+    Motors/Drivers (H-bridge)
+ Class 3 Lab
+    Motors 
+ Class 4 Lecture/Video
+    Robotic chassis? Something which relates to building the chassis
+ Lab
+    Build the BOT
+ Class 4b
+    Power / Soldering
+ Lab
+    add power board 
+ Class 5
+    Let move the Robot
+ Lab
+    write code to drive robot forward and back and turn in place
+ Class 6
+    interrupts and what are encoders
+ Lab
+    encoders
+ Class 7
+    Pid basic low info
+ Lab
+    Get the git Library for our PID  
+    write code to drive robot forward and back and turn in place using PID
+ Class 8
+    More fun with robot
+ lab
+    drive in a square
+ class 9
+    ADC (quick intro)
+ lab
+    Read battery voltage and plot the data
+    motor on and off
+ Class 10
+    Bump sensor
+ lab
+    Write program drive the robot using the bump sensor
+ Class 11
+    Line sensor
+ lab
+    Write a program to follow a line
+ adv lab
+    use pid on the line
+ Class 12 final
+    Robot games line following
+
+
+What about the don't fall off the table competition
+this was 12 weeks maybe combine a few get it down maybe 6 or 8
