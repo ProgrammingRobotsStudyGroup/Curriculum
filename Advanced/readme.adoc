@@ -1,1 +1,148 @@
-Advanced Class
+:imagesdir: ./images
+:toc: macro
+
+= Advanced - PRSG Courseware
+
+== License
+
+The materials for this document are licensed under the Apache license. See the file LICENSE for details.
+
+Copyright 2016 D Nielsen & F Douthit
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+http://www.apache.org/licenses/LICENSE-2.0.
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+toc::[]
+
+== Description
+In this course we add more power by adding a Raspberry Pi 3 and ROS.
+
+== Objectives
+ * Introduction to ROS
+ * Develop planning for robot
+
+== Prerequisites
+ * Intro+ Sensors class or knowledge? Permission?
+
+== Materials and Tools	
+=== Materials
+ * Installed Software from intro
+ * Camera
+ * IMU
+ * Lidar?
+ * Speaker?
+ * Mic?
+	
+=== Tools
+ * Laptop
+
+== Class 1
+=== Presentation - ROS + Ubuntu
+Why ROS, what is ROS?
+
+Getting started with Ubutnu.
+
+=== Lab - 'What are your objectives?'
+Discuss with student what they want to get out of the course
+
+
+
+== Class 2
+=== Presentation - Discussion of ROS environment 
+Short discussion
+
+=== Lab - Build your ROS environment on PC (Configuring Your ROS Environment)
+
+
+
+== Class 3
+=== Presentation - ROS Commands
+=== Lab - Try command examples
+
+
+
+== Class 4
+=== Lab - Tutorials, including messages, services, ROS Nodes, actions, etc.
+
+
+
+== Class 5 
+=== Presentation - Raspberry Pi 3 Model B
+=== Lab - Prepared Operating System SD Card/ Ubuntu Setup
+Ubuntu ARM install of ROS Indigo
+
+=== Homework - Check that Tutorial work on PI
+
+
+
+== Class 6
+=== Presentation - ROS network
+=== Lab - Run talker on RPI and Subscriber on VM
+
+
+
+== Class 7
+=== Presentation - Robot Hardware
+Communications in a Robot; i2c, UART, etc.
+
+
+
+== Class 8
+=== Presentation - ros_arduino_bridge
+=== Lab - Run ros_arduino_bridge on you harware
+
+
+
+== Class 5	
+=== Presentation - TeleOp
+=== Lab - Run your robot with Teleop
+
+
+
+== Class 6
+=== Presentation - rqt
+=== Lab - run your robot with Teleop plot you sensor data in rqt
+
+
+
+== Class 7
+=== Presentation - TF Frames
+=== Lab - 
+
+
+
+== Class 8
+=== Presentation - DF/Xacro
+=== Lab - create your robots urdf
+
+
+
+== Class 9
+=== Presentation - launch files
+=== Lab - create your robots launch files
+
+
+
+== Class 10
+=== Presentation - controlling robot
+=== Lab - write code to drive robot in a square
+
+
+
+== Class 11
+=== Presentation - odometry in a ROS environment
+Define odometry for students
+=== Lab - Calibrate your robot odometry
+
+
+
+== Class 12
+=== Presentation Moveit
