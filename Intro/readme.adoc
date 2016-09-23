@@ -1,94 +1,152 @@
-Intro to Robotics
+:imagesdir: ./images
+:toc: macro
 
-Description
- 
- Want to learn something about robotics? This class starts with the basics. You'll build a 2 wheeled robot etc. 
- 
- Objectives 
-    Intro to electricity, motors, microcontrollers. 
-    Learn Encoders
-    Learn PID algorithm?
-    Soldering
-    Learn Arduino (C/C++) Coding?
-   
-  
- Prerequisites 
+= Introduction to Robotics - PRSG Courseware
 
- Stuff you need
-    Laptop + Installed Software
-    Arduino IDE
-    Git
-   
- What we supply
-    USB Cable
-    Intro Robo Kit: <link to parts list>
-   
-   
- intro 
-    intro to Git and IDE
- lab  
-    install git and IDE
- Class 1 
-    Starting to program in Arduino
- Class 1 Lab
-    Blinky light
- Class 2
-    Arduino Libraries
- Class 2 Lab
-    BlinkLEDS
-    Buttons
-    A Star fun
- class 2b
-    intro PWM
- lab
-    LED Fade
- Class 3
-    Motors/Drivers (H-bridge)
- Class 3 Lab
-    Motors 
- Class 4 Lecture/Video
-    Robotic chassis? Something which relates to building the chassis
- Lab
-    Build the BOT
- Class 4b
-    Power / Soldering
- Lab
-    add power board 
- Class 5
-    Let move the Robot
- Lab
-    write code to drive robot forward and back and turn in place
- Class 6
-    interrupts and what are encoders
- Lab
-    encoders
- Class 7
-    Pid basic low info
- Lab
-    Get the git Library for our PID  
-    write code to drive robot forward and back and turn in place using PID
- Class 8
-    More fun with robot
- lab
-    drive in a square
- class 9
-    ADC (quick intro)
- lab
-    Read battery voltage and plot the data
-    motor on and off
- Class 10
-    Bump sensor
- lab
-    Write program drive the robot using the bump sensor
- Class 11
-    Line sensor
- lab
-    Write a program to follow a line
- adv lab
-    use pid on the line
- Class 12 final
-    Robot games line following
+== License
+
+The materials for this document are licensed under the Apache license. See the file LICENSE for details.
+
+Copyright 2016 D Nielsen & F Douthit
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+http://www.apache.org/licenses/LICENSE-2.0.
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+toc::[]
+
+== Description
+Want to learn something about robotics? This class starts with the basics. You'll build a 2 wheeled robot and hopefully learn something at the same time.
+
+== Objectives 
+ * Intro to electricity, motors, microcontrollers. 
+ * Learn Encoders
+ * Learn PID algorithm
+ * Soldering
+ * Learn Arduino (C/C++) Coding? This may be emoved to the programming course
+
+== Prerequisites
+ * Basic Programming Skills.
+ * Any of C/C++ or Python experience s helpful.
+
+== Materials and Tools	
+=== Materials
+ * USB Cable
+ * link:https://docs.google.com/spreadsheets/d/14o_WbfAfRTZ7kWdXbT5RnLOrxVK6JGJlvdHokGA6cX8/edit?usp=sharing[Intro Robo Kit]
+	
+=== Tools
+ * Laptop
+ * Arduino IDE
+ * git
 
 
-What about the don't fall off the table competition
-this was 12 weeks maybe combine a few get it down maybe 6 or 8
+== Class 1
+=== Presentation - Introduction to Git and Arduino IDE
+=== Lab - Install and Test software
+ * Install git and IDE
+
+
+
+== Class 2
+=== Presentation - Learning to program Arduino
+=== Lab - Blinky light
+
+
+
+== Class 3
+=== Presentation - Arduino Libraries
+=== Lab - Programming Fun
+ * BlinkLEDS
+ * Buttons
+ * A-Star fun
+
+
+
+== Class 4
+=== Presentation - Introduction to pulse Width Modulation (PWM)
+=== Lab - LED Fade
+
+
+
+== Class 5
+=== Presentation - Motors/Drivers (H-bridge)
+=== Lab - Motors 
+
+
+
+== Class 6
+=== Presentation - Robotic chassis? Something which relates to building the chassis
+=== Lab - Build the BOT
+
+
+
+== Class 7
+=== Presentation - Power / Soldering
+=== Lab - Add power board
+
+
+
+== Class 8
+=== Presentation - Make the robot move!
+=== Lab - Write code to drive robot forward and back and turn in place
+
+
+
+== Class 9
+=== Presentation - Interrupts and Encoders
+=== Lab - Encoders
+
+
+
+== Class 10
+=== Presentation - PID algorythm basics
+=== Lab - 
+ * Get the git Library for our PID  
+ * write code to drive robot forward and back and turn in place using PID
+
+
+
+== Class 11
+=== Presentation - More fun with robot
+=== Lab - Drive in a square
+
+
+
+== Class 12
+=== Presentation - Introduction to Analog to Digital (ADC)
+=== Lab - 
+ * Read battery voltage and plot the data
+ * ?? motor on and off ??
+
+
+
+== Class 13
+=== Presentation - Bump sensor
+=== Lab - Program the robot to drive using the bump sensor
+
+
+
+== Class 14
+=== Presentation - Line sensor
+=== Lab - Write a program to follow a line
+Advanced - use pid on the line
+
+
+
+== Class 15
+=== Presentation - Robot Games
+ * Line following
+ * Table top
+=== Lab - attempt a competition?
+
+
+
+? Table top 
+? 15 weeks maybe combine a few get it down maybe 6 or 8
