@@ -1,1 +1,93 @@
-Sensor and actuator class
+:imagesdir: ./images
+:toc: macro
+
+= Sensors - PRSG Courseware
+
+== License
+
+The materials for this document are licensed under the Apache license. See the file LICENSE for details.
+
+Copyright 2016 D Nielsen & F Douthit
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+http://www.apache.org/licenses/LICENSE-2.0.
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+toc::[]
+
+== Description
+Starting with the moving platform built in the previouys class, etc.
+
+== Objectives
+Learn how to build, test circuits with sensors and microcontrollers.
+
+== Prerequisites
+Intro class or knowledge? Permission?	
+
+== Materials and Tools
+=== Laptop + Installed Software from Introdction to Robotics <link to sw from that class>
+
+=== Intro Robo Sensor Kit: <link to parts list>	
+	Ultrasonic Sensor	
+	servo	
+	breadboard	
+	wires	
+		
+		
+== Introduction - Why sensors and Actuators
+
+== Lab
+
+== Class 1 - Breadboard and ADC
+Should this be in the intro class?
+
+== Class 1 Lab -Take reading from POT
+Modify line follower to use the pot to set TOP speed
+
+
+== Class 2 - Servos
+
+== Class 2 Lab - Build a servo controller on a breadboard use pot to control position
+
+
+== Class 3 - Ultrasonic Sensor
+
+== Class 3 Lab - Take reading from Sensor
+Write program drive a round with Obstacle Avoidance
+
+
+== Class 4 - IR Proximity Sensor
+
+== Class 4 Lab - Use two sensor to replace bump sensor use four sensor to since the edge of an elevated surface
+
+
+== Class 5 - Sharp Distance Sensors
+
+== Class 5 Lab - Take reading from Sensor
+
+
+== Class 6 - Ultrasonic Sensor vs Sharp Distance Sensors
+
+== Class 6 Lab - Field of view ? measurements	
+
+
+== Class 7 - Gyro
+
+== Class 7 Lab - Take reading from Sensor
+
+
+== Class 8 - Accelerometer
+
+== Class 8 Lab - Take reading from Sensor	
+
+
+== Class 9 - Magnetometer	
+
+== Class 9 Lab - Take reading from Sensor	

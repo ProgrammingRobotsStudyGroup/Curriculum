@@ -1,9 +1,31 @@
-PSRG Classes ??
+:imagesdir: ./images
+:toc: macro
 
-Classes
+= PRSG Courseware
 
-1.     Programming and hardware interaction
-1.     Intro robotics
-1.     Sensor and actuator class
-1.     Advanced Class
-1.     Futureness and maddness
+== License
+
+The materials for this document are licensed under the Apache license. See the file LICENSE for details.
+
+Copyright 2016 D Nielsen & F Douthit
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+http://www.apache.org/licenses/LICENSE-2.0.
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+toc::[]
+
+== Class List
+
+1.     link:Programming/readme.adoc[Programming and hardware interaction]
+1.     link:Intro/readme.adoc[Introduction to Robotics] - Want to learn about robotics? This class starts with the basics. You'll build a 2 wheeled robot etc. 
+1.     link:Sensor/readme.adoc[Sensors]
+1.     link:Advanced/readme.adoc[Advanced]
+1.     link:future.adoc[Future possibilities]
