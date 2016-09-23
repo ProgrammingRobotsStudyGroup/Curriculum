@@ -1,0 +1,16 @@
+Future Topics
+
+ * Run our code
+ * Moveit
+ * Swarm?
+ * avahi
+ * JavaAPI
+ * Android
+ * Voice Commands - See RBX2
+ * JSON API - look up name of API
+ * Streaming Video
+ * Camera
+ * IMU
+ * Lidar?
+ * Speaker?
+ * Mic?
