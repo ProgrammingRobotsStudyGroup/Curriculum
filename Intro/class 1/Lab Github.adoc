@@ -1,3 +1,5 @@
+= Lab Software install and laptop setup 
+
 == GitHub 
 
 You can install GitHub Desktop on supported Microsoft Windows or OS X operating systems.
