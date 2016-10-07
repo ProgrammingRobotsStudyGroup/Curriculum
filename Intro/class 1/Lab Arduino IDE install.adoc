@@ -1,3 +1,9 @@
+[NOTE]
+====
+Ok this is draft step number is all @!$$% up
+====
+
+
 = Lab Software install and laptop setup 
 
 == Installing Windows drivers
