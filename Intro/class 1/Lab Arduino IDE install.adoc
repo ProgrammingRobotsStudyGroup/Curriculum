@@ -8,16 +8,18 @@ Get the latest version from the https://www.arduino.cc/en/Main/Software[download
 
 When the download finishes, proceed with the installation and please allow the driver installation process when you get a warning from the operating system.
 
-image::DRV_Capture1.png[]
+
+
+image::images/DRV_Capture1a.png[]
 
 Choose what to install
 
-image::DRV_Capture2.png[]
+image::images/DRV_Capture2.png[]
 
 Choose the installation directory (we suggest to keep the default
 one)
 
-image::DRV_Capture3.png[]
+image::images/DRV_Capture3.png[]
 
 The process will extract and install all the required files to execute properly the Arduino Software (IDE)
 
@@ -26,10 +28,10 @@ The process will extract and install all the required files to execute properly 
 1. Download the https://www.pololu.com/file/download/a-star-2.0.0.zip?file_id=0J743[A-Star Software and Drivers] (98k zip) and extract the ZIP file to a temporary folder on your computer.
 1. Open the “drivers” folder. Right-click on “a-star.inf” and select “Install”.
 
-image::pololu_astar_001.png[]
+image::images\pololu_astar_001.png[]
 
 1.  Windows will ask you whether you want to install the drivers. Click “Install” (Windows 8, 7, and Vista) or “Continue Anyway” (Windows XP).
 
-image::pololu_astar_002.png[]
+image::images\pololu_astar_002.png[]
 
 1.  Windows will not tell you when the installation is complete, but it should be done after a few seconds.
