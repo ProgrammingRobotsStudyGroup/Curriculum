@@ -1,0 +1,33 @@
+== GitHub 
+
+You can install GitHub Desktop on supported Microsoft Windows or OS X operating systems.
+Before you set up GitHub Desktop, you must already have a GitHub or GitHub Enterprise account.
+
+=== Signing up for a new GitHub account
+
+GitHub offers free accounts for users and organizations working on public and open source projects, as well as paid accounts that offer unlimited private repositories.
+
+[TIP]
+====
+You do not need a paid user account to access and work on repositories in an organization. Free accounts can work on an organization's private repositories, as long as they are https://help.github.com/articles/adding-organization-members-to-a-team[added to an organization].
+====
+
+=== Signing up for service
+
+** *Howto*  https://help.github.com/articles/signing-up-for-a-new-github-account/[Signing up for a new GitHub account]
+
+Congratulations, and welcome to GitHub!
+
+=== Verifying your email address
+
+Verifying your primary email address ensures strengthened security and allows GitHub staff to better assist you if you forget your password.
+
+=== Installing GitHub Desktop
+
+** *HowTo* https://help.github.com/desktop/guides/getting-started/installing-github-desktop/[install Github desktop] 
+
+
+
+
+
+

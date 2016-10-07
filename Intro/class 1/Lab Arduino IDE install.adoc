@@ -4,6 +4,8 @@ Ok this is draft step number is all @!$$% up
 ====
 
 
+
+
 = Lab Software install and laptop setup 
 
 == Installing Windows drivers
@@ -20,7 +22,7 @@ image::images\pololu_astar_002.png[]
 
 1.  Windows will not tell you when the installation is complete, but it should be done after a few seconds.
 
-**Windows 10, Windows 8, Windows 7, and Windows Vista users:** After installing the drivers, your computer should automatically recognize the device when you connect it via USB. No further action from you is required. However, the first time you connect an A-Star device to your computer, Windows will take several seconds to recognize the device and configure itself properly. The first time you program the device, Windows will again take several seconds to recognize the A-Star USB bootloader, and this could cause the programming operation to fail the first time. Also, Windows will need to re-recognize the device and the bootloader if you connect the board to another USB port that it has not been connected to before.
+**Windows 10, Windows 8, and Windows 7:** After installing the drivers, your computer should automatically recognize the device when you connect it via USB. No further action from you is required. However, the first time you connect an A-Star device to your computer, Windows will take several seconds to recognize the device and configure itself properly. The first time you program the device, Windows will again take several seconds to recognize the A-Star USB bootloader, and this could cause the programming operation to fail the first time. Also, Windows will need to re-recognize the device and the bootloader if you connect the board to another USB port that it has not been connected to before.
 
 === COM port details
 
@@ -72,10 +74,5 @@ Let install Pololu A-star 32U4 Board A-Star Software and Drivers
 3.  In the **Tools > Board** menu, select the “Pololu A-Star 32U4” entry. If you do not see your device listed in the Board menu, then the add-on is probably not installed correctly. Try doing step 2 again and restarting the Arduino IDE.
 
 image::images/pololu_astar_003.png[Selecting the Pololu A-Star 32U4]
-
-
-
-
-
 
 
