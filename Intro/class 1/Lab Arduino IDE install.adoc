@@ -1,0 +1,9 @@
+== Lab
+
+=== Install the Arduino Software (IDE)
+
+=== Download the Arduino Software (IDE)
+
+Get the latest version from the https://www.arduino.cc/en/Main/Software[download page]. You can choose between the Installer (.exe) and the Zip packages. We suggest you use the first one that installs directly everything you need to use the Arduino Software (IDE), including the drivers. 
+
+When the download finishes, proceed with the installation and please allow the driver installation process when you get a warning from the operating system.
