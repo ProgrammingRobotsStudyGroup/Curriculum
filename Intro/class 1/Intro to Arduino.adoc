@@ -1,0 +1,63 @@
+= Intro to Arduino
+
+=== What is Arduino?
+
+Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something online. You can tell your board what to do by sending a set of instructions to the microcontroller on the board. To do so you use the Arduino programming language (based on Wiring), and the Arduino Software (IDE), based on Processing.
+
+Arduino was born as an easy tool for fast prototyping, aimed at students without a background in electronics and programming. As soon as it reached a wider community, the Arduino board started changing to adapt to new needs and challenges, differentiating its offer from simple 8-bit boards to products for IoT applications, wearable, 3D printing, and embedded environments. All Arduino boards are completely open-source, empowering users to build them independently and eventually adapt them to their particular needs. The software, too, is open-source, and it is growing through the contributions of users worldwide.
+
+=== Why Arduino?
+
+It is simple and accessible user experience, Arduino has been used in thousands of different projects and applications. The Arduino software is easy-to-use for beginners, yet flexible enough for advanced users. It runs on Mac, Windows, and Linux. Teachers and students use it to build low cost scientific instruments, to prove chemistry and physics principles, or to get started with programming and [underline]##robotics##. Designers and architects build interactive prototypes, musicians and artists use it for installations and to experiment with new musical instruments. Makers, of course, use it to build many of the projects exhibited at the Maker Faire, for example. Arduino is a key tool to learn new things. Anyone - children, hobbyists, artists, programmers - can start tinkering just following the step by step instructions of a kit, or sharing ideas online with other members of the Arduino community.
+
+There are many other microcontrollers and microcontroller platforms available for physical computing. Parallax Basic Stamp, Netmedia's BX-24, Phidgets, MIT's Handyboard, and many others offer similar functionality. All of these tools take the messy details of microcontroller programming and wrap it up in an easy-to-use package. Arduino also simplifies the process of working with microcontrollers, but it offers some advantage for teachers, students, and interested amateurs over other systems:
+
+*   **Inexpensive** - Arduino boards are relatively inexpensive compared to other microcontroller platforms. The least expensive version of the Arduino module can be assembled by hand, and even the pre-assembled Arduino modules cost less than $50
+*   **Cross-platform** - The Arduino Software (IDE) runs on Windows, Macintosh OSX, and Linux operating systems. Most microcontroller systems are limited to Windows.
+*   **Simple, clear programming environment** - The Arduino Software (IDE) is easy-to-use for beginners, yet flexible enough for advanced users to take advantage of as well. For teachers, it's conveniently based on the Processing programming environment, so students learning to program in that environment will be familiar with how the Arduino IDE works.
+*   **Open source and extensible software** - The Arduino software is published as open source tools, available for extension by experienced programmers. The language can be expanded through C++ libraries, and people wanting to understand the technical details can make the leap from Arduino to the AVR C programming language on which it's based. Similarly, you can add AVR-C code directly into your Arduino programs if you want to.
+*   **Open source and extensible hardware** - The plans of the Arduino boards are published under a Creative Commons license, so experienced circuit designers can make their own version of the module, extending it and improving it. Even relatively inexperienced users can build the breadboard version of the module in order to understand how it works and save money.
+
+=== What Pololu A-Star
+
+The Pololu A-Star microcontroller boards are general-purpose programmable modules based on Atmel AVR microcontrollers. A USB interface and preloaded Arduino-compatible bootloader on each A-Star makes it easy to get started programming them. 
+
+The A-Star 32U4 boards are similar to the Arduino Leonardo and Arduino Micro. Basicly Pololu made there on version of a Leonardo extending and some improvements.
+
+Our board of choice for this intro robot is Pololu A-Star 32U4 Robot Controller LV 
+
+The Pololu A-Star 32U4 Robot Controller with Raspberry Pi Bridge is a programmable module designed to be the core of a small robot, either as an auxiliary controller atop a Raspberry Pi base or as a complete control solution on its own.
+
+==== Features
+
+*   Programmable ATmega32U4 MCU with 32 KB flash, 2.5 KB SRAM, 1 KB EEPROM, and native full-speed USB (clocked by precision 16 MHz crystal oscillator)
+
+*   Preloaded with Arduino-compatible bootloader (no external programmer required)
+*   All 26 general-purpose I/O lines from the ATmega32U4 are broken out (including PB0, PD5, and PE2); 7 of these can be used as hardware PWM outputs and 12 of these can be used as analog inputs (some I/O lines are used by on-board hardware)
+
+*   Dual bidirectional motor drivers (≥1.7 A per channel)
+*   Buzzer option for simple sounds and music
+*   3 user-controllable LEDs
+*   3 user pushbuttons
+*   Reset button
+*   Level shifters for interfacing 5 V logic to 3.3 V Raspberry Pi
+Power features:
+
+*   5 V power can be sourced from USB or from external supply through on-board regulator (with several access points for connecting external power)
+
+*   **LV**: 2.7 V to 11 V input
+*   Provides 5 V power to Raspberry Pi
+
+
+The **A-Star 32U4 Robot Controller LV** features two Texas Instruments DRV8838 motor drivers that can each deliver a continuous 1.8 A. The motor power supply is derived from an external source connected to the A-Star’s Power In terminals, which also feeds the on-board voltage regulator and should have a voltage between 2.7 V and 11 V.
+
+
+[NOTE]
+====
+check out resources for data sheets and user guides
+====
+
+
+
+
+
