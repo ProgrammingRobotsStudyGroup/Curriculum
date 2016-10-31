@@ -23,7 +23,7 @@ limitations under the License.
 toc::[]
 
 == Description
-Want to learn something about robotics? This class starts with the basics. You'll build a 2 wheeled robot and hopefully learn something at the same time.
+Want to learn something about robotics? This course starts with the basics. You'll build a 2 wheeled robot and hopefully learn something at the same time.
 
 == Objectives 
  * Intro to electricity, motors, microcontrollers. 
@@ -47,20 +47,19 @@ Want to learn something about robotics? This class starts with the basics. You'l
  * git
 
 
-== Class 1
-=== Presentation - Introduction to Git and Arduino IDE
-=== Lab - Install and Test software
- * Install git and IDE
+== Lesson 1
+=== link:lesson_01/Intro_to_Arduino.adoc[Presentation - Introduction to Arduino IDE and Git]
+=== Labs - Arduino IDE and Github
+ * link:lesson_01/Lab_Arduino_IDE_Install.adoc[Install the Arduino IDE]
+ * link:lesson_01/Lab_Github.adoc[Github]
 
-
-
-== Class 2
+== Lesson 2
 === Presentation - Learning to program Arduino
 === Lab - Blinky light
 
 
 
-== Class 3
+== Lesson 3
 === Presentation - Arduino Libraries
 === Lab - Programming Fun
  * BlinkLEDS
@@ -69,43 +68,43 @@ Want to learn something about robotics? This class starts with the basics. You'l
 
 
 
-== Class 4
+== Lesson 4
 === Presentation - Introduction to pulse Width Modulation (PWM)
 === Lab - LED Fade
 
 
 
-== Class 5
+== Lesson 5
 === Presentation - Motors/Drivers (H-bridge)
 === Lab - Motors 
 
 
 
-== Class 6
+== Lesson 6
 === Presentation - Robotic chassis? Something which relates to building the chassis
 === Lab - Build the BOT
 
 
 
-== Class 7
+== Lesson 7
 === Presentation - Power / Soldering
 === Lab - Add power board
 
 
 
-== Class 8
+== Lesson 8
 === Presentation - Make the robot move!
 === Lab - Write code to drive robot forward and back and turn in place
 
 
 
-== Class 9
+== Lesson 9
 === Presentation - Interrupts and Encoders
 === Lab - Encoders
 
 
 
-== Class 10
+== Lesson 10
 === Presentation - PID algorythm basics
 === Lab - 
  * Get the git Library for our PID  
@@ -113,13 +112,13 @@ Want to learn something about robotics? This class starts with the basics. You'l
 
 
 
-== Class 11
+== Lesson 11
 === Presentation - More fun with robot
 === Lab - Drive in a square
 
 
 
-== Class 12
+== Lesson 12
 === Presentation - Introduction to Analog to Digital (ADC)
 === Lab - 
  * Read battery voltage and plot the data
@@ -127,20 +126,20 @@ Want to learn something about robotics? This class starts with the basics. You'l
 
 
 
-== Class 13
+== Lesson 13
 === Presentation - Bump sensor
 === Lab - Program the robot to drive using the bump sensor
 
 
 
-== Class 14
+== Lesson 14
 === Presentation - Line sensor
 === Lab - Write a program to follow a line
 Advanced - use pid on the line
 
 
 
-== Class 15
+== Lesson 15
 === Presentation - Robot Games
  * Line following
  * Table top
