@@ -22,10 +22,10 @@ limitations under the License.
 
 toc::[]
 
-== Class List
+== Course List
 
-1.     link:Programming/readme.adoc[Programming and hardware interaction]
-1.     link:Introduction/readme.adoc[Introduction to Robotics] - Want to learn about robotics? This class starts with the basics. You'll learn a little bit about programming, microcontrollers, and electronics in the course of building a 2 wheeled robot. 
-1.     link:Sensor/readme.adoc[Sensors]
-1.     link:Advanced/readme.adoc[Advanced] Add power by adding a Raspberry Pi 3 and ROS.
+1.     link:Programming/readme.adoc[Programming and hardware interaction] - 
+1.     link:Introduction/readme.adoc[Introduction to Robotics] - Want to learn about robotics? This course starts with the basics. You'll learn a little bit about programming, microcontrollers, and electronics in the course of building a 2 wheeled robot. 
+1.     link:Sensor/readme.adoc[Sensors] - 
+1.     link:Advanced/readme.adoc[Advanced] Add power by adding a Raspberry Pi 3 and ROS. ROS is the leading open source robotics platform.Learn more in this course.
 1.     link:future.adoc[Future Directions]
