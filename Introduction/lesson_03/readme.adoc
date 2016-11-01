@@ -1,0 +1,23 @@
+:imagesdir: ./images
+:toc: macro
+
+= Presentation - Arduino Libraries
+
+In this presentation you will learn about Arduino libraries, etc.
+
+== What is an Arduino Library?
+
+A software library is a collection of purpose specific code. As an example, a printing library might help format documents to be printed. Arduino has libraries as well. In this lesson you will learn about how they work, some of the common libraries, etc.
+
+== A few libraries
+
+=== Example 1 - https://github.com/GreyGnome/EnableInterrupt/
+
+=== Example 2 - https://github.com/merose/SimplePID
+We used this in ROV2 ROSSerial.
+
+== A*Star Library
+
+=== Features
+
+=== Code Examples

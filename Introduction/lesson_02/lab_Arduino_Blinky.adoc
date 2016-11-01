@@ -1,0 +1,20 @@
+= Lab Blinky Light
+
+This lab starts with the Arduino IDE's basic example sketch blink. You will learn how to write a simple program to make the light on the board turn on and off.
+
+== Safety
+
+== Try Basic Blink example
+Load the blink example from the IDE.
+See https://www.arduino.cc/en/Tutorial/Blink
+
+Demonstrates looping, iteration and delay(). 
+
+== Without Delay()...
+
+
+
+== References
+ 
+* https://www.arduino.cc/en/Tutorial/Blink
+* https://www.arduino.cc/en/Tutorial/BlinkWithoutDelay

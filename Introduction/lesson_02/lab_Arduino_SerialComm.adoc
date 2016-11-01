@@ -1,0 +1,13 @@
+= Lab - Serial Communication
+
+You can make the Arduino talk to your computer.
+
+== Example
+Serial output count 1..10,000, wait for .5 sec between numbers. 
+Demonstrates looping, iteration and delay(). 
+
+
+== References
+
+* https://www.arduino.cc/en/Reference/Delay
+* 

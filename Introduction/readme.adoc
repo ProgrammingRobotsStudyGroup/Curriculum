@@ -34,7 +34,7 @@ Want to learn something about robotics? This course starts with the basics. You'
 
 == Prerequisites
  * Basic Programming Skills.
- * Any of C/C++ or Python experience s helpful.
+ * Any of C/C++ or Python experience is helpful.
 
 == Materials and Tools	
 === Materials
@@ -47,44 +47,38 @@ Want to learn something about robotics? This course starts with the basics. You'
  * git
 
 
-== Lesson 1
-=== link:lesson_01/Intro_to_Arduino.adoc[Presentation - Introduction to Arduino IDE and Git]
+== Lesson 01
+=== link:lesson_01/Intro_to_Arduino.adoc[Presentation - Introduction to Arduino IDE]
 === Labs - Arduino IDE and Github
  * link:lesson_01/Lab_Arduino_IDE_Install.adoc[Install the Arduino IDE]
  * link:lesson_01/Lab_Github.adoc[Github]
 
-== Lesson 2
-=== Presentation - Learning to program Arduino
-=== Lab - Blinky light
+== Lesson 02
+=== link:lesson_02/readme.adoc[Presentation - Learning to program Arduino]
+=== Labs - Blinky light, Fade
+ * link:lesson_02/lab_Arduino_Blinky.adoc[Blinky Light]
+ * link:lesson_02/lab_Arduino_SerialComm.adoc[Communicating with the Arduino]
 
+== Lesson 03
+=== link:lesson_03/readme.adoc[Presentation - Arduino Libraries]
+=== Labs - Programming Fun
+ * link:lesson_03/lab_Arduino_BlinkLEDS.adoc[BlinkLEDS]
+ * link:lesson_03/lab_Arduino_Buttons.adoc[Buttons]
+ * link:lesson_03/lab_Arduino_AStar.adoc[A-Star fun]
 
-
-== Lesson 3
-=== Presentation - Arduino Libraries
-=== Lab - Programming Fun
- * BlinkLEDS
- * Buttons
- * A-Star fun
-
-
-
-== Lesson 4
-=== Presentation - Introduction to pulse Width Modulation (PWM)
+== Lesson 04
+=== link:lesson_04/readme.adoc[Presentation - Introduction to pulse Width Modulation (PWM)]
 === Lab - LED Fade
+ * link:lesson_04/lab_Arduino_Fade.adoc[Fade]
 
-
-
-== Lesson 5
-=== Presentation - Motors/Drivers (H-bridge)
+== Lesson 05
+=== link:lesson_05/readme.adoc[Presentation - Motors and the H-Bridge Driver]
 === Lab - Motors 
-
-
+ * link:lesson_05/lab_Arduino_Motors.adoc[Motors]
 
 == Lesson 6
 === Presentation - Robotic chassis? Something which relates to building the chassis
 === Lab - Build the BOT
-
-
 
 == Lesson 7
 === Presentation - Power / Soldering
