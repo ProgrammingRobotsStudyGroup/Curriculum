@@ -1,5 +1,7 @@
 Future Topics
 
+ * Could use mechanical, electrical courses
+ * Physics course - kahn?
  * Run our code
  * Moveit
  * Swarm?
