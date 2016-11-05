@@ -5,6 +5,7 @@
 
 toc::[]
 
+image::../images/highres_445565059.jpeg[ROV2]
 == Abstract
 link:http://programmingrobotsstudygroup.github.io/[Programming Robots Study Group] has been a successful program at link:http://robotgarden.org/[Robot Garden]. We've created this series in order to make it a little easier for those who follow.
 
