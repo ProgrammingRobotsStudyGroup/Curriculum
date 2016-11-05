@@ -3,6 +3,32 @@
 
 = PRSG Courseware
 
+toc::[]
+
+== Abstract
+link:http://programmingrobotsstudygroup.github.io/[Programming Robots Study Group] has been a successful program at link:http://robotgarden.org/[Robot Garden]. We've created this series in order to make it a little easier for those who follow.
+
+This series of courses starts with basic concepts and devices. The material is approachable by someone with simple (grade school) programming skills. To make it interesting we've proposed a challenge at the end of the link:Introduction/readme.adoc[Introduction to Robotics] course.
+
+The courses advance to link:http://ros.org/[ROS], link:https://www.ubuntu.com/[Ubuntu (linux)] and other topics which may be more appropriate for those with secondary and post secondary education. 
+
+== Beginner Objectives
+
+* Functional understanding of microcontrollers
+* Build a robot capable of competing in table top and indoor challenges.
+
+== Advanced Objectives
+* Abilty to stand up and deploy ROS systems
+* Ability to code complex algorithms for sensors, etc.
+
+== Course List
+
+1.     link:Programming/readme.adoc[Programming and hardware interaction] - 
+1.     link:Introduction/readme.adoc[Introduction to Robotics] - Want to learn about robotics? This course starts with the basics. You'll learn a little bit about programming, microcontrollers, and electronics in the course of building a 2 wheeled robot. 
+1.     link:Sensor/readme.adoc[Sensors] - 
+1.     link:Advanced/readme.adoc[Advanced] Add power by adding a Raspberry Pi 3 and ROS. ROS is the leading open source robotics platform.Learn more in this course.
+1.     link:future.adoc[Future Directions]
+
 == License
 
 The materials for this document are licensed under the Apache license. See the file LICENSE for details.
@@ -20,12 +46,3 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-toc::[]
-
-== Course List
-
-1.     link:Programming/readme.adoc[Programming and hardware interaction] - 
-1.     link:Introduction/readme.adoc[Introduction to Robotics] - Want to learn about robotics? This course starts with the basics. You'll learn a little bit about programming, microcontrollers, and electronics in the course of building a 2 wheeled robot. 
-1.     link:Sensor/readme.adoc[Sensors] - 
-1.     link:Advanced/readme.adoc[Advanced] Add power by adding a Raspberry Pi 3 and ROS. ROS is the leading open source robotics platform.Learn more in this course.
-1.     link:future.adoc[Future Directions]
